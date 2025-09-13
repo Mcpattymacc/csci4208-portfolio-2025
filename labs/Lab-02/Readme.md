@@ -1,0 +1,1 @@
+CSS is a very cool thing to use. While the webpage did not look the best, it taught us the basics of CSS, and how it could be used to make a page look better. I feel this was the best way to teach the basics of CSS, as it showed us what each thing did, and how it would do that.

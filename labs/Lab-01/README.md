@@ -1,0 +1,1 @@
+HTML is not a very hard subject to understand at a very simple level. It was very easy to understand how each page worked, and how it translated to the page we created. Overall, I find it was a very useful lab to see how each line of HTML would translate to the page, and how the scripting would work on a very simple level.
