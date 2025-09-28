@@ -1,0 +1,1 @@
+ It is not a tough project to understand at all, with each src file having minimal amounts of Javascript that it does not feel overwhelming trying to understand how it works. The PDF was also very clear on how to go about with each implementation of a new feature, and how it would work. Overall, this lab I feel is a good introduction to Javascript Basics.
